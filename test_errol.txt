@@ -1,4 +1,1 @@
 this is a test by errol aaron
-=======
-this is a test by 
->>>>>>> 8c7228edfdcc011cee3209c81cb3b7dc7a626f1c
